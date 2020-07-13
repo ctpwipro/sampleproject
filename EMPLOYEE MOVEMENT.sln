@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "EMPLOYEE MOVEMENT", "EMPLOYEE MOVEMENT\", "{878594A0-46DA-4C05-9A1A-18BA75D4AF5D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57550"
+		Debug.AspNetCompiler.PhysicalPath = "C:\\dotnettest\\EMPLOYEE MOVEMENT\EMPLOYEE MOVEMENT"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57550\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57550"
+		Release.AspNetCompiler.PhysicalPath = "C:\\dotnettest\\EMPLOYEE MOVEMENT\EMPLOYEE MOVEMENT"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57550\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "True"
+		VWDPort = 57550
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878594A0-46DA-4C05-9A1A-18BA75D4AF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878594A0-46DA-4C05-9A1A-18BA75D4AF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489DB1A7-062F-4B74-B08B-3199711D272E}
+	EndGlobalSection
+EndGlobal
